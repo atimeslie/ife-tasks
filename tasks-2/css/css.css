@@ -1,0 +1,160 @@
+/*div img{
+			display:block;
+			width:300px;
+			height: 300px;
+			margin-left: 40px;
+			margin-top: 0px;
+			margin-bottom: 20px;
+		}
+		div{
+			text-indent: 40px;
+		}
+
+		img.a{
+
+         display:none;
+         display:block;
+			width:300px;
+			height: 300px;
+		}
+
+*/
+
+body{
+	background-color: gray;
+}
+
+
+#header{
+	background-color: black;
+	height:100px;
+	/*background-image: url(https://www.baidu.com/img/bd_logo1.png);
+	background-position: top left;
+	???为什么不能引入背景图像
+    */
+}
+/*#baidu{
+	width:50px;
+	height:100px;
+	/*background：black;
+	 opacity: 0.5;
+}*/
+#header ul{
+	float:right;
+}
+#header li{
+	display: inline;
+	line-height: 50px;
+
+}
+
+#ff1{
+	background-color: white;
+	margin:20px;
+}
+#ff1 img{
+
+         display:block;
+			width:300px;
+			height: 300px;
+}
+
+
+#ff2{
+	background-color: white;
+	margin:20px;
+}
+#ff2 img{
+
+         display:block;
+			width:300px;
+			height: 300px;
+}
+#ff2  li{
+	list-style-type: none;
+}
+
+
+
+#ff3{
+	background-color: white;
+	margin:20px;
+}
+#ff3 img{
+	display:block;
+			width:300px;
+			height: 300px;
+			margin-left: 25px;
+			margin-top: 20px;
+			margin-bottom: 20px;
+}
+#ff3 .m{
+
+    height:400px;
+    width: 350px;
+	border:1px solid red;
+	margin:20px;
+	text-indent: 25px
+}
+div #h{
+	margin:10px 0px 10px 60px;
+	
+}
+
+
+
+#ff4{
+	background-color: white;
+	margin:20px;
+	padding:50px;
+}
+
+
+#ff4 .z{
+	background-color: black;
+}
+#ff4 .x{
+	background-color: gray;
+}
+#ff4 td{
+	width:400px;
+}
+table{
+	border-spacing: 0px;
+	margin:0px auto;
+	/*margin-bottom: 40px;*/
+}
+
+#ff5{
+	background-color: white;
+	margin:20px;
+}
+.q{
+	margin-left: 300px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#q{
+	width:1000px;
+	/*margin:0px auto;*/
+	/*position: absolute;top:50%;left:50%;*/
+	margin-left: 50px;
+	background-color: blue;
+	border-radius: 10px;
+	height:50px;
+	font-size: 16px;
+	font-weight: bold;
+	color:white;
+}
+#footer{
+	background-color: black;
+	height:100px;
+	/*background-image: url(https://www.baidu.com/img/bd_logo1.png);
+	background-position: top left;
+	???为什么不能引入背景图像
+    */
+    color:white;
+    text-align: center;
+    line-height: 100px;
+}
+
